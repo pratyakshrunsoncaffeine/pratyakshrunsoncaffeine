@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Pratyaksh Gulati: quant research, Indian markets, and tools for AI agents"/>
+<img src="assets/banner.svg?v=3" width="100%" alt="Pratyaksh Gulati: quant research, Indian markets, and tools for AI agents"/>
 
 ```python
 class Pratyaksh:
@@ -16,7 +16,7 @@ class Pratyaksh:
 
 <br/>
 
-<a href="https://github.com/pratyakshrunsoncaffeine/flipside"><img src="assets/flipside.svg" width="100%" alt="Flipside: prove what your coding agent did, without handing over the session"/></a>
+<a href="https://github.com/pratyakshrunsoncaffeine/flipside"><img src="assets/flipside.svg?v=3" width="100%" alt="Flipside: prove what your coding agent did, without handing over the session"/></a>
 
 <p align="center">
   <a href="https://pratyakshrunsoncaffeine.github.io/flipside/"><img src="https://img.shields.io/badge/live_site-f2b544?style=for-the-badge&labelColor=16181b&logo=googlechrome&logoColor=f2b544" alt="Live site"/></a>
@@ -30,8 +30,8 @@ class Pratyaksh:
 ### ▸ Core holdings
 
 <p>
-  <a href="https://github.com/pratyakshrunsoncaffeine/momentum-screener"><img src="assets/card-momentum.svg" width="49%" alt="Momentum Screener"/></a>
-  <a href="https://github.com/pratyakshrunsoncaffeine/Portfolio_Rebalance"><img src="assets/card-rebal.svg" width="49%" alt="Sector ETF Allocator"/></a>
+  <a href="https://github.com/pratyakshrunsoncaffeine/momentum-screener"><img src="assets/card-momentum.svg?v=3" width="49%" alt="Momentum Screener"/></a>
+  <a href="https://github.com/pratyakshrunsoncaffeine/Portfolio_Rebalance"><img src="assets/card-rebal.svg?v=3" width="49%" alt="Sector ETF Allocator"/></a>
 </p>
 
 ### ▸ Watchlist
@@ -74,4 +74,4 @@ Lab notebooks, where I work through the textbooks one model at a time.
   <img src="https://img.shields.io/badge/NSE-1f2328?style=flat-square" alt="NSE"/>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Market closed, positions carried overnight. Past commits are not indicative of future commits. Not investment advice."/>
+<img src="assets/footer.svg?v=3" width="100%" alt="Market closed, positions carried overnight. Past commits are not indicative of future commits. Not investment advice."/>
