@@ -2,7 +2,7 @@
 
 ```python
 class Pratyaksh:
-    studies    = "B.Sc. (H) Mathematics, Hindu College, University of Delhi"
+    studies    = "B.Sc. (H) Mathematics"
     works_on   = ["quant research", "Indian equities", "tools for AI agents"]
     benchmark  = "NIFTY 50"
     edge       = "derive it on paper, then build it"
@@ -44,16 +44,6 @@ Lab notebooks, where I work through the textbooks one model at a time.
 | `HDGE` | [Hedge-fund-simulations](https://github.com/pratyakshrunsoncaffeine/Hedge-fund-simulations) | Hedging simulations built from scratch |
 | `QSTR` | [Quantitative-Strategies](https://github.com/pratyakshrunsoncaffeine/Quantitative-Strategies) | Backtests of strategies from books and papers |
 | `CAPM` | [Capital-Asset-pricing-model-CAPM-](https://github.com/pratyakshrunsoncaffeine/Capital-Asset-pricing-model-CAPM-) | Betas, the security market line, expected returns |
-
-### ▸ Analyst note: initiating coverage on me
-
-| 🐂 Bull case | 🐻 Bear case | ⚡ Catalysts |
-|---|---|---|
-| Ships end to end: research, code, demo, proof | 47 open tabs, structurally | The next hackathon |
-| Treats a backtest like an audit, not a pitch | Will re-derive your formula before using it | The next textbook chapter turned into code |
-| Thinks in matrices first, charts second | Will rebuild your model from scratch "to understand it" | Whatever the screener flags tonight |
-
-**Rating: BUY · Horizon: long term · Conviction: high**
 
 ### ▸ Factor exposures
 
