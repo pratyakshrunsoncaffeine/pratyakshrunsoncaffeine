@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Session closed, refilling coffee"><title>Session closed, refilling coffee</title><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Market closed, positions carried overnight"><title>Market closed, positions carried overnight</title><style>
 .sp{stroke-dasharray:1;animation:draw 4s ease-in-out both}
 @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>

@@ -2,16 +2,16 @@
 
 ```python
 class Pratyaksh:
+    studies    = "B.Sc. (H) Mathematics, Hindu College, University of Delhi"
     works_on   = ["quant research", "Indian equities", "tools for AI agents"]
     benchmark  = "NIFTY 50"
-    edge       = "reading the textbook, then building it"
+    edge       = "derive it on paper, then build it"
     risk_rules = [
         "point-in-time or it didn't happen",   # no lookahead, ever
         "no LLMs in the signal path",           # deterministic code only
         "report the null result",               # no p-hacking
         "net of costs, or it's not a return",
     ]
-    fuel       = "coffee, compounded daily"
 ```
 
 <br/>
@@ -49,9 +49,9 @@ Lab notebooks, where I work through the textbooks one model at a time.
 
 | 🐂 Bull case | 🐻 Bear case | ⚡ Catalysts |
 |---|---|---|
-| Ships end to end: research, code, demo, proof | Heavy caffeine dependency | The next hackathon |
-| Treats a backtest like an audit, not a pitch | 47 open tabs, structurally | The next textbook chapter turned into code |
-| Reads the paper before trusting the chart | Will rebuild your model from scratch "to understand it" | Whatever the screener flags tonight |
+| Ships end to end: research, code, demo, proof | 47 open tabs, structurally | The next hackathon |
+| Treats a backtest like an audit, not a pitch | Will re-derive your formula before using it | The next textbook chapter turned into code |
+| Thinks in matrices first, charts second | Will rebuild your model from scratch "to understand it" | Whatever the screener flags tonight |
 
 **Rating: BUY · Horizon: long term · Conviction: high**
 
@@ -70,6 +70,10 @@ Lab notebooks, where I work through the textbooks one model at a time.
   <img src="https://img.shields.io/badge/Claude_Code-16181b?style=flat-square&logo=anthropic&logoColor=f2b544" alt="Claude Code"/>
 </p>
 <p>
+  <img src="https://img.shields.io/badge/linear_algebra-1f2328?style=flat-square" alt="linear algebra"/>
+  <img src="https://img.shields.io/badge/probability-1f2328?style=flat-square" alt="probability"/>
+  <img src="https://img.shields.io/badge/optimisation-1f2328?style=flat-square" alt="optimisation"/>
+  <img src="https://img.shields.io/badge/shrinkage_estimators-1f2328?style=flat-square" alt="shrinkage estimators"/>
   <img src="https://img.shields.io/badge/momentum-1f2328?style=flat-square" alt="momentum"/>
   <img src="https://img.shields.io/badge/Black--Litterman-1f2328?style=flat-square" alt="Black-Litterman"/>
   <img src="https://img.shields.io/badge/HRP-1f2328?style=flat-square" alt="HRP"/>
