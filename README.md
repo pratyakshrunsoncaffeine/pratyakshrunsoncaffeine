@@ -7,6 +7,10 @@ class Pratyaksh:
     rules    = ["point-in-time or it didn't happen", "report the null result"]
 ```
 
+<a href="https://caelioncapital.in/"><img src="assets/caelion.svg?v=1" width="100%" alt="Caelion Capital: the market, from a different altitude"/></a>
+
+<p align="center"><a href="https://caelioncapital.in/">caelioncapital.in</a></p>
+
 <a href="https://github.com/pratyakshrunsoncaffeine/flipside"><img src="assets/flipside.svg?v=5" width="100%" alt="Flipside: prove what your coding agent did, without handing over the session"/></a>
 
 <p align="center"><a href="https://pratyakshrunsoncaffeine.github.io/flipside/">Live site</a> · <a href="https://youtu.be/NAbsKlQAi_c">Demo</a> · <a href="https://github.com/pratyakshrunsoncaffeine/flipside">Source</a></p>
